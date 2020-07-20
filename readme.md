@@ -1,5 +1,3 @@
-<img src="screen.png">
-
 ### Install
 
 ```
